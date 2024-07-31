@@ -36,4 +36,7 @@ Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
 ## About me
 
+Title: [Insert Catchy Title Here]�By Nicholas S. Brennan[Paste Article Here]Calling All Writers and Creatives:Join our community, The Subscribe Squad, and connect with like-minded individuals. Share your work, get feedback, and grow your creative network.Join The Subscribe SquadStay Connected:For more of my work and updates, follow me on social media:� � � � � � � � �Explore More:Check out my latest thoughts and musings on my blog:
+GitHub ProfileJoin Our Newsletter:Stay updated with my latest writings, insights, and exclusive content by joining our newsletter. Be the first to know about new releases and special offers.Sign Up for the NewsletterHashtags:#HereByMonsters #KlausDreadful #ThoughtProvokingReads #DarkHumor #IntellectualExploration
+
 <!-- TO DO: add more details about me later -->
