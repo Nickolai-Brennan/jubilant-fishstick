@@ -1,0 +1,41 @@
+Below is a mockup of what the template would look like with the placeholders and icons.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Insert Catchy Title Here</title>
+</head>
+<body>
+    <h1>Insert Catchy Title Here</h1>
+    <img src="https://via.placeholder.com/150" alt="Image Placeholder">
+    <p><strong>By <a href="https://x.com/KlausDreadful?t=gDfiCB7dsRmPHl9L_mb0VA&s=09">Nicholas S. Brennan</a></strong></p>
+
+    <p>[Paste Article Here]</p>
+
+    <h2>Calling All Writers and Creatives:</h2>
+    <p>Join our community, The Subscribe Squad, and connect with like-minded individuals. Share your work, get feedback, and grow your creative network.</p>
+    <p><a href="#">Join The Subscribe Squad</a></p>
+
+    <h2>Stay Connected:</h2>
+    <p>For more of my work and updates, follow me on social media:</p>
+    <a href="https://www.inkitt.com/KlausDreadful"><img src="https://via.placeholder.com/20" alt="Inkitt"></a>
+    <a href="https://www.tumblr.com/bygrimm?source=share"><img src="https://via.placeholder.com/20" alt="Tumblr"></a>
+    <a href="https://www.typeshare.co/KlausDreadful"><img src="https://via.placeholder.com/20" alt="Typeshare"></a>
+    <a href="https://pin.it/7zP8KlrBw"><img src="https://via.placeholder.com/20" alt="Pinterest"></a>
+    <a href="https://www.facebook.com/share/vJGGo3YE67eKFcqu/?mibextid=qi2Omg"><img src="https://via.placeholder.com/20" alt="Facebook"></a>
+    <a href="https://x.com/KlausDreadful?t=gDfiCB7dsRmPHl9L_mb0VA&s=09"><img src="https://via.placeholder.com/20" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/nicholassbrennan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
+    <a href="https://medium.com/@KlausDreadful"><img src="https://via.placeholder.com/20" alt="Medium"></a>
+    <a href="https://www.theprose.com/KlausDreadful"><img src="https://via.placeholder.com/20" alt="Prose"></a>
+
+    <h2>Explore More:</h2>
+    <p>Check out my latest thoughts and musings on my blog:</p>
+    <p><a href="https://github.com/Nickolai-Brennan">GitHub Profile</a></p>
+
+    <h2>Join Our Newsletter:</h2>
+    <p>Stay updated with my latest writings, insights, and exclusive content by joining our newsletter. Be the first to know about new releases and special offers.</p>
+    <p><a href="#">Sign Up for the Newsletter</a></p>
+
+    <p>Hashtags: #HereByMonsters #KlausDreadful #ThoughtProvokingReads #DarkHumor #IntellectualExploration</p>
+</body>
+</html>
