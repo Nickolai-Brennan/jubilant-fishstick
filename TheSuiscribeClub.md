@@ -1,1 +1,1 @@
-
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/SuiscribeClub/comments/1eh5kxi/discover_the_suicide_scribe_your_creative/">🌟 **Discover The Suicide Scribe: Your Creative Sanctuary** 🌟</a><br> by<a href="https://www.reddit.com/user/nsbrennan/">u/nsbrennan</a> in<a href="https://www.reddit.com/r/SuiscribeClub/">SuiscribeClub</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
